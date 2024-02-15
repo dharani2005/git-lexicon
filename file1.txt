@@ -1,2 +1,2 @@
 This is my first file in git-lexicon directory
-Adding second line to file1
+Adding additional message after reverting back to previous version
